@@ -1,0 +1,43 @@
+{
+    "name": "lordmailman-extension-pack",
+    "displayName": "LordMailman's Extension Pack",
+    "description": "Extension Pack for my personal use, but anyone is free to use it if it helps them.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "alefragnani.project-manager",
+        "alefragnani.rtf",
+        "bierner.markdown-mermaid",
+        "codezombiech.gitignore",
+        "DavidAnson.vscode-markdownlint",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "fatihacet.gitlab-workflow",
+        "Gimly81.matlab",
+        "hashhar.gitattributes",
+        "hoovercj.vscode-power-mode",
+        "humao.rest-client",
+        "jetmartin.bats",
+        "johnstoncode.svn-scm",
+        "magicstack.MagicPython",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "ms-vscode.powershell",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "PeterJausovec.vscode-docker",
+        "redhat.vscode-yaml",
+        "ryu1kn.partial-diff",
+        "searKing.preview-vscode",
+        "Shan.code-settings-sync",
+        "Tobiah.language-pde",
+        "tomoki1207.pdf",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vsciot-vscode.vscode-arduino",
+        "yzhang.markdown-all-in-one"
+    ]
+}
