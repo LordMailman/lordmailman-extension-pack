@@ -3,6 +3,16 @@
     "displayName": "LordMailman's Extension Pack",
     "description": "Extension Pack for my personal use, but anyone is free to use it if it helps them.",
     "version": "0.0.1",
+    "icon": "mailman.png",
+    "publisher": "LordMailman",
+    "bugs": {
+        "url": "https://github.com/LordMailman/lordmailman-extension-pack/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LordMailman/lordmailman-extension-pack.git"
+    },
+    "homepage": "https://github.com/LordMailman/lordmailman-extension-pack/blob/master/README.md",
     "engines": {
         "vscode": "^1.34.0"
     },
