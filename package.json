@@ -2,7 +2,7 @@
     "name": "lordmailman-extension-pack",
     "displayName": "LordMailman's Extension Pack",
     "description": "Extension Pack for my personal use, but anyone is free to use it if it helps them.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "icon": "mailman.png",
     "publisher": "LordMailman",
     "bugs": {
@@ -14,7 +14,7 @@
     },
     "homepage": "https://github.com/LordMailman/lordmailman-extension-pack/blob/master/README.md",
     "engines": {
-        "vscode": "^1.34.0"
+        "vscode": "^1.55.0"
     },
     "categories": [
         "Extension Packs"
@@ -22,32 +22,37 @@
     "extensionPack": [
         "alefragnani.project-manager",
         "alefragnani.rtf",
+        "batisteo.vscode-django",
         "bierner.markdown-mermaid",
         "codezombiech.gitignore",
         "DavidAnson.vscode-markdownlint",
         "donjayamanne.githistory",
         "eamodio.gitlens",
-        "fatihacet.gitlab-workflow",
         "Gimly81.matlab",
         "hashhar.gitattributes",
         "hoovercj.vscode-power-mode",
         "humao.rest-client",
         "jetmartin.bats",
-        "johnstoncode.svn-scm",
         "magicstack.MagicPython",
+        "ms-azuretools.vscode-docker",
+        "ms-mssql.mssql",
         "ms-python.python",
+        "ms-toolsai.jupyter",
         "ms-vscode.cpptools",
-        "ms-vscode.powershell",
         "ms-vscode.vscode-typescript-tslint-plugin",
-        "PeterJausovec.vscode-docker",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-wsl",
+        "njpwerner.autodocstring",
         "redhat.vscode-yaml",
         "ryu1kn.partial-diff",
         "searKing.preview-vscode",
-        "Shan.code-settings-sync",
         "Tobiah.language-pde",
         "tomoki1207.pdf",
         "VisualStudioExptTeam.vscodeintellicode",
         "vsciot-vscode.vscode-arduino",
+        "wholroyd.jinja",
+        "yzane.markdown-pdf",
         "yzhang.markdown-all-in-one"
     ]
 }
