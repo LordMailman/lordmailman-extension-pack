@@ -1,8 +1,8 @@
 # LordMailman's Extension Pack
 
-This Extension Pack for my personal use, but anyone is free to use it if it helps them.
+This extension pack is for my personal use, but anyone is free to use it if it helps them.
 
-This extension was originall generated using the Yeoman code generator for VS Code following [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-an-extension-pack-for-visual-studio-code).
+This extension was originally generated using the Yeoman code generator for VS Code following [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-an-extension-pack-for-visual-studio-code).
 
 ## Included Extensions
 

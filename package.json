@@ -1,8 +1,8 @@
 {
     "name": "lordmailman-extension-pack",
     "displayName": "LordMailman's Extension Pack",
-    "description": "Extension Pack for my personal use, but anyone is free to use it if it helps them.",
-    "version": "0.0.3",
+    "description": "This extension pack is for my personal use, but anyone is free to use it if it helps them.",
+    "version": "0.0.4",
     "icon": "mailman.png",
     "publisher": "LordMailman",
     "bugs": {
